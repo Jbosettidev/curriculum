@@ -195,6 +195,7 @@ span{
     font-size: 30px;
     font-weight: 500;
     min-width: 280px;
+    white-space: nowrap;
 }
 
 .typing-text span{
@@ -221,6 +222,7 @@ span{
 @keyframes cursor{
     to{
         border-left: 3px solid #9400d3;;
+        
     }
 }
 

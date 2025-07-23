@@ -195,6 +195,7 @@ span{
     font-size: 34px;
     font-weight: 600;
     min-width: 280px;
+    white-space: nowrap;
 }
 
 .typing-text span{
